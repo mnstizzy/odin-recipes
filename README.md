@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Cours
+Odin Course setup
